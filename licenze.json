@@ -1,15 +1,15 @@
 {
  "v": 1,
  "aggiornato": "2026-11-14",
- "body": "LVL1|AAAA-BBBB-CCCC:20271114:0",
- "sig": "uCtHjVuoSZjMpJrl_6HKrZS3GbQ8Lmp9Sq4eZSExIB_WjZKdwdbLQ76po5ChXaZaqx0F-JFq0JNIlJQ-xbBaCg",
+ "body": "LVL1|AAAA-BBBB-CCCC:20271114:1",
+ "sig": "ZucoqPzNjPWtuFkkaq-6paJL9wJIS_ZMCz06LtrvE4OTYS5BM-0lRIkmZLdw9SX26v-3XUA7r2W8AHjhj9PSBw",
  "licenze": [
   {
    "id": "AAAA-BBBB-CCCC",
    "serial": "LV-X7Z7-5TG8",
    "name": "pippo gall",
    "exp": "20271114",
-   "revoked": false
+   "revoked": true
   }
  ]
 }
