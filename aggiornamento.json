@@ -1,9 +1,9 @@
 {
- "version": "0.6.3",
+ "version": "0.6.6",
  "url": "https://raw.githubusercontent.com/claudioph98/lumvia--aggiornamenti/main/Lumvia.dmg",
- "sha256": "c02864fa46328f427ad00b967532a4d5cb09f757d1c81b185fd24c467ff6f37d",
- "size": 83591475,
- "notes": "Gestione licenze: nuovo pulsante «Elimina»\nL'aggiornamento rimandato due volte diventa obbligatorio anche con il controllo automatico spento\nMiglioramenti di stabilità",
- "date": "2026-11-14",
- "sig": "mL2KR2LxNMQR9BfU0zrHjdPXzmMYbWE__giYnWdRHx2dQ1eyT49OcTFZiKFmkK1YdSa70z36xxymJH2UJOteIg"
+ "sha256": "2a29af6483121e923fbd98283e3904a46d68f66094ce317df9c56ffa122f44ed",
+ "size": 83595092,
+ "notes": "Esporta JPG: salvi le foto finite, con modifiche, ritaglio e LUT, alla dimensione che vuoi\nRitaglio della foto, libero o con le proporzioni fisse (1:1, 4:5, 2:3, 16:9…)\nInterruttore per accendere e spegnere la LUT\nLista del cliente: incolli i nomi scelti dal cliente (wfolio e simili) e Lumvia segna quelle foto\nRisolto: l'analisi delle foto non partiva",
+ "date": "2026-11-16",
+ "sig": "Xu8QlvhcP4RfUQyRCxMj6g_ehr2nrMsMIS-WLlj0b0p2k15Zh6BOuu_X3iZ9exJJ4jMtpjbN37figRTV0zZUSQ"
 }
