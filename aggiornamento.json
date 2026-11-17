@@ -1,9 +1,9 @@
 {
- "version": "0.6.6",
+ "version": "0.8.0",
  "url": "https://raw.githubusercontent.com/claudioph98/lumvia--aggiornamenti/main/Lumvia.dmg",
- "sha256": "2a29af6483121e923fbd98283e3904a46d68f66094ce317df9c56ffa122f44ed",
- "size": 83595092,
- "notes": "Esporta JPG: salvi le foto finite, con modifiche, ritaglio e LUT, alla dimensione che vuoi\nRitaglio della foto, libero o con le proporzioni fisse (1:1, 4:5, 2:3, 16:9…)\nInterruttore per accendere e spegnere la LUT\nLista del cliente: incolli i nomi scelti dal cliente (wfolio e simili) e Lumvia segna quelle foto\nRisolto: l'analisi delle foto non partiva",
- "date": "2026-11-16",
- "sig": "Xu8QlvhcP4RfUQyRCxMj6g_ehr2nrMsMIS-WLlj0b0p2k15Zh6BOuu_X3iZ9exJJ4jMtpjbN37figRTV0zZUSQ"
+ "sha256": "50310a6655f0fc06433d73614d2a411591ab4c11c86054d680f550614006aa50",
+ "size": 83618068,
+ "notes": "Nuova interfaccia con pagina iniziale, progetti e pannelli apribili\nNuova finestra Esporta come Lightroom: preset, qualità, spazio colore, ridimensionamento, nitidezza, filigrana\nLe foto esportate hanno gli stessi colori che vedi in Lumvia\nSe un file esiste già, puoi scegliere se sostituirlo o mantenere entrambi\nModifica in Photoshop (⌥⌘E): la versione di Photoshop si vede e si sviluppa in Lumvia\nRitaglio, interruttore della LUT e motore di sviluppo come Lightroom\nFoto simili sincronizzate con gli stessi valori",
+ "date": "2026-11-17",
+ "sig": "X-VZyl1f7h-sVUYbUZlrJ10cV8wSlbN4DGNNZTI_i9hCLctzTj7sEz8VhcOd7_CnVQI5NblKVqBZQg1F_QGbTw"
 }
