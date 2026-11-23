@@ -1,9 +1,9 @@
 {
- "version": "0.8.0",
+ "version": "0.8.2",
  "url": "https://raw.githubusercontent.com/claudioph98/lumvia--aggiornamenti/main/Lumvia.dmg",
- "sha256": "50310a6655f0fc06433d73614d2a411591ab4c11c86054d680f550614006aa50",
- "size": 83618068,
- "notes": "Nuova interfaccia con pagina iniziale, progetti e pannelli apribili\nNuova finestra Esporta come Lightroom: preset, qualità, spazio colore, ridimensionamento, nitidezza, filigrana\nLe foto esportate hanno gli stessi colori che vedi in Lumvia\nSe un file esiste già, puoi scegliere se sostituirlo o mantenere entrambi\nModifica in Photoshop (⌥⌘E): la versione di Photoshop si vede e si sviluppa in Lumvia\nRitaglio, interruttore della LUT e motore di sviluppo come Lightroom\nFoto simili sincronizzate con gli stessi valori",
- "date": "2026-11-17",
- "sig": "X-VZyl1f7h-sVUYbUZlrJ10cV8wSlbN4DGNNZTI_i9hCLctzTj7sEz8VhcOd7_CnVQI5NblKVqBZQg1F_QGbTw"
+ "sha256": "8fe2cbb3b67b44eeff560de57f57246670d0de4fa4877a0c641598c68314341f",
+ "size": 83619810,
+ "notes": "Sviluppo: elimina le foto dal progetto con ⌫, X o il cestino (gli originali restano sul disco)\nPhotoshop: Lumvia riconosce ogni modo di salvare (⌘S, Salva con nome, Salva una copia)",
+ "date": "2026-11-23",
+ "sig": "cPxZuGqCpaCzMNWX7b7Fir3H8vH5UAYpxBM7_dYtjjZ9rwZhY5HaZy7QNr_MqSQ-iPpEUR_NwRkmwaDyNl3HWg"
 }
