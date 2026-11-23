@@ -1,7 +1,15 @@
 {
  "v": 1,
- "aggiornato": "2026-11-14",
- "body": "LVL1|AAAA-BBBB-CCCC:20271114:1",
- "sig": "1r11fRgV9rlxlZW30dcQfXxBQTPyQ0ymu3_J8N3tOvLJwj45Jx18f-acaXP3Ltmw9S0xkWwxjaN_l_g6xWhGrA",
- "licenze": []
+ "aggiornato": "2026-11-23",
+ "body": "LVL1|AAAA-BBBB-CCCC:20271114:1;WUXX-8W3H-PSFP:0:0",
+ "sig": "kZ-nIj6ufYEt5ksBS4OvfIXMPl097ktc_oUpJci4oAgCTYG0ucEZbJfvgBRfHXPgenU1JJX64i2MzqSkD0frlQ",
+ "licenze": [
+  {
+   "id": "WUXX-8W3H-PSFP",
+   "serial": "LV-HDYC-99P4",
+   "name": "Ciccio Mascali",
+   "exp": "",
+   "revoked": false
+  }
+ ]
 }
